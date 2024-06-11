@@ -9,4 +9,6 @@ Você pode entrar em contato comigo 📫
 00001123505081sp@al.educacao.sp.gov.br
 
 @math12sg__
-![]https://giffiles.alphacoders.com/395/3951.gif
+
+![](https://giffiles.alphacoders.com/395/3951.gif)
+
